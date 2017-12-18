@@ -18,19 +18,21 @@
 
 #### 更新需求
 
-在需求评审或每次讨论确认后对当前版本需求的新增和修改内容，会用黄底标出。
+在需求评审或每次讨论确认后对当前版本需求的新增和修改内容，会用黄色背景标出。
 
-&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=orange&gt;这里是更新的需求描述&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=orange&gt; 这里是更新的需求描述 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
+#### 迭代需求
 
-
-
+在需求评审或每次讨论确认后确定延后版本的，用灰色背景标出。
 
 # 更新历史
 
 本文档的每次修改都会有详细的修改说明，点击查看历史修改说明。[https://github.com/306941426/PRD-MZ/commits/master](https://github.com/306941426/PRD-MZ/commits/master)
 
 如需协同编辑本文档，请按示例填写修改说明和样式区分。
+
+
 
 # 编辑文档
 
