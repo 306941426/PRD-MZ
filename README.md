@@ -30,22 +30,37 @@
 
 # 更新历史
 
-本文档的每次修改都会有详细的修改说明，点击查看历史修改说明。[https://github.com/306941426/PRD-MZ/commits/master](https://github.com/306941426/PRD-MZ/commits/master)
+---
 
-如需协同编辑本文档，请按示例填写修改说明和样式区分。
+本文档的每次修改都会有详细的修改说明，点击查看历史修改说明。[https://github.com/306941426/PRD-MZ/commits/master](https://github.com/306941426/PRD-MZ/commits/master)
 
 如需及时收到更新通知，请在GitHub项目中订阅该项目，每次更新文档会有邮件通知。
 
 > 点击项目右上角，Watch按钮
 
+
+
 # 编辑文档
+
+---
+
+如需协同编辑本文档，请按示例填写修改说明和样式区分。
+
+1. 更新需求：黄色背景标出
+2. 迭代需求：灰色背景标出
+
+另外需要了解GitHub、Gitbook、Markdown的基础知识，可通过以下文档学习。
+
+
 
 # 联系作者
 
+---
+
 本文档有任何问题，请联系刘威雄：
 
-* 钉钉：
-* 邮箱：
+* 钉钉：13750046461（威雄）
+* 邮箱：liuweixiong@meizu.com
 
 
 
