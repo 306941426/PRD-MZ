@@ -34,11 +34,16 @@
 
 本文档的每次修改都会有详细的修改说明，点击查看历史修改说明。[https://github.com/306941426/PRD-MZ/commits/master](https://github.com/306941426/PRD-MZ/commits/master)
 
+* 更新标题
+* 更新详细描述
+
+![](/assets/Commits_·_306941426_PRD-MZ.png)
+
 如需及时收到更新通知，请在GitHub项目中订阅该项目，每次更新文档会有邮件通知。
 
 > 点击项目右上角，Watch按钮
 
-
+![](/assets/306941426_PRD-MZ.png)
 
 # 编辑文档
 
@@ -51,7 +56,10 @@
 
 另外需要了解GitHub、Gitbook、Markdown的基础知识，可通过以下文档学习。
 
-
+* [GitBook简明教程](http://www.chengweiyang.cn/gitbook/basic-usage/README.html)
+* [Markdown 语法说明](http://wowubuntu.com/markdown/)
+* [献给写作者的Markdown新手指南](http://www.jianshu.com/p/q81RER)
+* [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 # 联系作者
 
