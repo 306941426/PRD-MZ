@@ -61,6 +61,7 @@
 另外需要了解GitHub、Gitbook、Markdown的基础知识，可通过以下文档学习。
 
 * [GitBook简明教程](http://www.chengweiyang.cn/gitbook/basic-usage/README.html)
+* [GitBook使用入门](https://tonydeng.github.io/gitbook-zh/gitbook-howtouse/)
 * [Markdown 语法说明](http://wowubuntu.com/markdown/)
 * [献给写作者的Markdown新手指南](http://www.jianshu.com/p/q81RER)
 * [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
