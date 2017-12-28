@@ -20,13 +20,21 @@
 
 在需求评审或每次讨论确认后对当前版本需求的新增和修改内容，会用黄色背景标出。
 
-` <table><tr><td bgcolor=orange> 这里是更新的需求描述 </td></tr></table> `
+`<table><tr><td bgcolor=orange> 这里是更新的需求描述 </td></tr></table>`
+
+```
+<table><tr><td bgcolor=#7FFFD4>
+这里是更新的需求描述 
+</td></tr></table>
+```
+
+
 
 #### 迭代需求
 
 在需求评审或每次讨论确认后确定延后版本的，用灰色背景标出，以后迭代版本中实现。
 
-` <table><tr><td bgcolor=#7FFFD4> 这里是迭代需求描述 </td></tr></table>`
+`<table><tr><td bgcolor=#7FFFD4> 这里是迭代需求描述 </td></tr></table>`
 
 # 更新历史
 
