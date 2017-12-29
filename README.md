@@ -92,5 +92,5 @@ This text is {% em type="red" %}highlighted in red!{% endem %}
 [7]:	http://www.jianshu.com/p/q81RER
 [8]:	http://rogerdudler.github.io/git-guide/index.zh.html
 
-[image-1]:	/assets/Commits_%C2%B7_306941426_PRD-MZ.png
+[image-1]:	/assets/Commits_·_306941426_PRD-MZ.png
 [image-2]:	/assets/306941426_PRD-MZ.png
