@@ -23,9 +23,7 @@
 `<table><tr><td bgcolor=orange> 这里是更新的需求描述 </td></tr></table>`
 
 ```js
-<table><tr><td bgcolor=#7FFFD4>
-这里是更新的需求描述 
-</td></tr></table>
+**
 ```
 
 This text is {% em type="red" %}highlighted in red!{% endem %}
