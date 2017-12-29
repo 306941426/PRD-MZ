@@ -1,4 +1,4 @@
-# 资讯流2018年Q1需求文档[Sprint12]
+# 资讯流2018年Q1需求文档\[Sprint12\]
 
 ---
 
@@ -10,29 +10,29 @@
 
 本文档发布在GitHub和Gitbook，可以直接点击Gitbook链接打开。另外，可以在GitHub中下载本文档项目，部署并编辑。
 
-* GitBook链接：[https://winsonl.gitbooks.io/feeds/content/][1]
+* GitBook链接：[https://winsonl.gitbooks.io/feeds/content/](https://winsonl.gitbooks.io/feeds/content/)
 
-* GitHub链接：[https://github.com/306941426/PRD-MZ][2]
+* GitHub链接：[https://github.com/306941426/PRD-MZ](https://github.com/306941426/PRD-MZ)
 
 本文档会在需求评审或每次讨论确认后更新，分为两种样式：更新需求和迭代需求。
 
 #### 更新需求
 
-在需求评审或每次讨论确认后对当前版本需求的新增和修改内容，会用黄色背景标出。
-
-`<table><tr><td bgcolor=orange> 这里是更新的需求描述 </td></tr></table>`
+在需求评审或每次讨论确认后对当前版本需求的新增和修改内容，会用以下备注标出。
 
 ```js
-**
+**这里是更新需求**
+**END**
 ```
 
-This text is {% em type="red" %}highlighted in red!{% endem %}
+#### 延后需求
 
-#### 迭代需求
+在需求评审或每次讨论确认后确定延后版本的，用以下备注标出，以后迭代版本中实现。
 
-在需求评审或每次讨论确认后确定延后版本的，用灰色背景标出，以后迭代版本中实现。
-
-`<table><tr><td bgcolor=#7FFFD4> 这里是迭代需求描述 </td></tr></table>`
+```js
+**这里是延后需求**
+**END**
+```
 
 # 更新历史
 
@@ -40,12 +40,12 @@ This text is {% em type="red" %}highlighted in red!{% endem %}
 
 #### 查看历史更新
 
-本文档的每次修改都会有详细的修改说明，点击查看历史修改说明。[https://github.com/306941426/PRD-MZ/commits/master][3]
+本文档的每次修改都会有详细的修改说明，点击查看历史修改说明。[https://github.com/306941426/PRD-MZ/commits/master](https://github.com/306941426/PRD-MZ/commits/master)
 
 * 更新标题
 * 更新详细描述
 
-![][image-1]
+![](/assets/Commits_·_306941426_PRD-MZ.png)
 
 #### 订阅变更通知
 
@@ -53,7 +53,7 @@ This text is {% em type="red" %}highlighted in red!{% endem %}
 
 > 点击项目右上角，Watch按钮
 
-![][image-2]
+![](/assets/306941426_PRD-MZ.png)
 
 # 编辑文档
 
@@ -66,11 +66,11 @@ This text is {% em type="red" %}highlighted in red!{% endem %}
 
 另外需要了解GitHub、Gitbook、Markdown的基础知识，可通过以下文档学习。
 
-* [GitBook简明教程][4]
-* [GitBook使用入门][5]
-* [Markdown 语法说明][6]
-* [献给写作者的Markdown新手指南][7]
-* [git简明指南][8]
+* [GitBook简明教程](http://www.chengweiyang.cn/gitbook/basic-usage/README.html)
+* [GitBook使用入门](https://tonydeng.github.io/gitbook-zh/gitbook-howtouse/)
+* [Markdown 语法说明](http://wowubuntu.com/markdown/)
+* [献给写作者的Markdown新手指南](http://www.jianshu.com/p/q81RER)
+* [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 # 联系作者
 
@@ -83,14 +83,3 @@ This text is {% em type="red" %}highlighted in red!{% endem %}
 
 
 
-[1]:	https://winsonl.gitbooks.io/feeds/content/
-[2]:	https://github.com/306941426/PRD-MZ
-[3]:	https://github.com/306941426/PRD-MZ/commits/master
-[4]:	http://www.chengweiyang.cn/gitbook/basic-usage/README.html
-[5]:	https://tonydeng.github.io/gitbook-zh/gitbook-howtouse/
-[6]:	http://wowubuntu.com/markdown/
-[7]:	http://www.jianshu.com/p/q81RER
-[8]:	http://rogerdudler.github.io/git-guide/index.zh.html
-
-[image-1]:	/assets/Commits_%C2%B7_306941426_PRD-MZ.png
-[image-2]:	/assets/306941426_PRD-MZ.png
